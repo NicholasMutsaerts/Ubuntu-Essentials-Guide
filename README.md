@@ -1,12 +1,6 @@
 # Ubuntu-Essentials-Guide
 Beginner’s Guide to Ubuntu Desktop
 
----
-layout: default
-title: "Ubuntu Desktop User Experience"        # override site.title
-description: "An Essential Starting Point"  # override site.description
----
-
 The **Beginner’s Guide to the Ubuntu Desktop User Experience** is crafted as a comprehensive resource for anyone embarking on their Linux journey. It offers clear, practical guidance tailored for beginners and hobbyists exploring Linux for the first time.
 
 This guide brings together collaborative knowledge and trusted resources to help new users confidently set up Ubuntu virtual machines or desktop systems with ease. With its intuitive interface, robust community support, and reliable ecosystem, **Ubuntu remains one of the most accessible and welcoming pathways into the world of Linux**.
@@ -329,6 +323,3 @@ Other notable distros:
 - [Linux Mint 22.2](https://linuxmint.com/)
 - [Manjaro](https://manjaro.org/)
 
----
-#### [IT Technical Support Guides](it-guides.md)
-#### [Go to the Home Page]({{ '/' | absolute_url }})
