@@ -1,4 +1,4 @@
-# Ubuntu-Essentials-Guide
+# Ubuntu Essentials Guide
 Beginner’s Guide to Ubuntu Desktop
 
 The **Beginner’s Guide to the Ubuntu Desktop User Experience** is crafted as a comprehensive resource for anyone embarking on their Linux journey. It offers clear, practical guidance tailored for beginners and hobbyists exploring Linux for the first time.
@@ -276,6 +276,7 @@ chmod 754 filename
 - 744 – Owner full, others read
 - 740 – Owner full, group read only
 
+---
 
 ### Configuring Samba
 Samba enables cross-platform file sharing between Linux, Windows, and macOS.
@@ -310,6 +311,51 @@ Zorin OS 18 offers:
 VirtualBox installation guide for Zorin OS:
 [https://zorin.com/os/](https://zorin.com/os/)
 
+#### Other notable distros:
+
+- [Fedora 43](https://www.fedoraproject.org/)
+- [Linux Mint 22.2](https://linuxmint.com/)
+- [Manjaro](https://manjaro.org/)
+
+--- 
+
+#### Additional Reference Material
+
+- [Ubuntu Essentials Guide (Downloada PDF)](pdf/Ubuntu-Essentials-Guide.pdf)
+- [How to troubleshoot networking issues in Linux (Downloadable PDF)](pdf/How to troubleshoot networking issues in Linux.pdf)
+- [How to keep your computer secure (Downloadable PDF)](pdf/How-to-keep-your-computer-secure-(Linux).pdf)
+- [Install and Configure Samba (Ubuntu Guide)](https://ubuntu.com/tutorials/install-and-configure-samba#1-overview)
+- [Step-By-Step guide on how to RDP from Ubuntu to Apple MacBook laptop (Downloadable PDF)](pdf/Step-By-Step guide on how to RDP from Ubuntu to Apple MacBook laptop.pdf)
+- [Step-By-Step guide on how to RDP from Ubuntu to Windows 11 (Downloadable PDF)](pdf/Step-By-Step guide on how to RDP from Ubuntu to Windows 11.pdf)
+- [Understanding File Management in Linux](File-Management.md)
+
+--- 
+
+### Cheatsheets
+- [Basic Linux Cheatsheet](cheatsheet/Linux-Cheatsheet.pdf)
+- [Complete Ubuntu Cheatsheet](cheatsheet/Ubuntu-Linux-Cheatsheet.pdf)
+
+--- 
+
+#### Disclaimer
+All guides are provided for educational purposes only. Use Windows 11, macOS, and Linux commands at your own risk. While accuracy is a priority, incorrect administrative actions can cause data loss or service disruption. Always back up important data and consult a qualified IT professional if you are unsure.
+
+---- 
+
+### Support This Project
+
+If you find these **IT Technical Support Guides** helpful, consider supporting the project.
+
+Your support helps me:
+- Maintain and update technical documentation
+- Add new troubleshooting guides and how-to articles
+- Improve clarity, accuracy, and real-world applicability
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-yellow?logo=buymeacoffee)](https://www.buymeacoffee.com/nicholasmug)
+
+
+
+
 --- 
 #### Final Thoughts
 Linux continues to grow in popularity thanks to its flexibility, performance, and customization options.
@@ -317,9 +363,4 @@ Linux continues to grow in popularity thanks to its flexibility, performance, an
 **Ubuntu** is an excellent starting point
 **Zorin** is ideal for Windows/macOS users
 
-Other notable distros:
-
-- [Fedora 43](https://www.fedoraproject.org/)
-- [Linux Mint 22.2](https://linuxmint.com/)
-- [Manjaro](https://manjaro.org/)
 
